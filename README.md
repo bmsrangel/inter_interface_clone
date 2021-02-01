@@ -8,5 +8,18 @@ Todos os direitos são reservados ao banco Inter.
 
 O logo do PIX utilizado foi baixado do site [Logo Download](https://logodownload.org/pix-banco-central-logo/), então fica aqui registrado os créditos à plataforma.
 
-<img src="/.github/home.jpeg" width="200px">
-<img src="/.github/cloned_home.png" width="200px">
+## Screenshots
+
+* Original
+
+<p float="left">
+  <img src="/.github/home.jpeg" width="200px">
+  <img src="/.github/home_expanded.jpeg" width="200px">
+</p>
+
+* Réplica
+<p float="left">
+  <img src="/.github/cloned_home.png" width="200px">  
+  
+  <img src="/.github/cloned_home_expanded.png" width="200px">  
+</p>
