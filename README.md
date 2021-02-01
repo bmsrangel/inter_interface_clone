@@ -1,6 +1,6 @@
 # Réplica da Interface do Banco Inter
 
-Este aplicativo tem por objetivo reproduzir a interface do aplicativo móvel do Banco Inter.
+Este aplicativo tem por objetivo reproduzir a interface da página inicial do aplicativo móvel do Banco Inter.
 
 O propósito aqui é puramente praticar conhecimentos da ferramenta de desenvolvimento Flutter. Este projeto não recebe patrocínio e nem é monetizado de forma alguma.
 
