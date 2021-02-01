@@ -1,4 +1,4 @@
-# Réplica da Interface do Banco Inter
+# Réplica da Interface da Página Inicial do Banco Inter
 
 Este aplicativo tem por objetivo reproduzir a interface da página inicial do aplicativo móvel do Banco Inter.
 
@@ -20,6 +20,5 @@ O logo do PIX utilizado foi baixado do site [Logo Download](https://logodownload
 * Réplica
 <p float="left">
   <img src="/.github/cloned_home.png" width="200px">  
-  
   <img src="/.github/cloned_home_expanded.png" width="200px">  
 </p>
